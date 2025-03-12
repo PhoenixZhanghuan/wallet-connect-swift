@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
 
   s.dependency 'CryptoSwift'
-  s.dependency 'Starscream', '~> 4.0.8'
+  s.dependency 'Starscream', '~> 4.0.4'
   s.dependency 'PromiseKit'
 end
